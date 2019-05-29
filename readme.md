@@ -135,7 +135,7 @@ $ npm -v
 
 ---
 
-- [ ] Install the [moment](LINK) package
+- [ ] Install the [moment](https://www.npmjs.com/package/moment) package
 
 * **Question:** What command can you run to install this package?
 
@@ -155,4 +155,5 @@ $ npm -v
 
 #### Resources
 
-- [NodeJS Built-In Modules]()
+- [Node.js Built-In Modules](https://nodejs.org/dist/latest-v12.x/docs/api/)
+- [NPM: Moment](https://www.npmjs.com/package/moment)
