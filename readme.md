@@ -109,7 +109,11 @@ $ npm -v
   console.log(profile)
   ```
 
-* **Question:** Based on what you've observed, what is `module.exports` and what is its _type_ in JavaScript? What is `require` and what is its _type_ in JavaScript?
+* **Question:** What gets logged? Why?
+
+* **Your Answer:**
+
+* **Question:** What is `module.exports` and what is its _type_ in JavaScript? What is `require` and what is its _type_ in JavaScript?
 
 * **Your Answer:**
 
