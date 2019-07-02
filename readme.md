@@ -32,6 +32,11 @@ v12.2.0
 6.9.0
 ```
 
+07/02/2019
+updated .gitignore
+deleted module
+updated readme.md
+
 ### Instructions & Guiding Questions
 
 - [ ] Fork & Clone this repository
