@@ -1,0 +1,24 @@
+{
+  "name": "00-project-setup",
+  "version": "1.0.0",
+  "description": "Welcome to JSCRIPT 400 - Server Side Development with JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"hi friends\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pce-uw-jscript400/w1-node-ecosystem.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pce-uw-jscript400/w1-node-ecosystem/issues"
+  },
+  "homepage": "https://github.com/pce-uw-jscript400/w1-node-ecosystem#readme",
+  "dependencies": {
+    "moment": "^2.24.0"
+  }
+}
