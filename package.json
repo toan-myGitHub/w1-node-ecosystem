@@ -19,7 +19,7 @@
   },
   "homepage": "https://github.com/toan-myGitHub/w1-node-ecosystem#readme",
   "dependencies": {
-    "moment": "^2.24.0"
+    "moment": "^2.29.2"
   },
   "devDependencies": {}
 }
